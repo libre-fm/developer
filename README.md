@@ -10,4 +10,4 @@ Matt Lee, aka @mattl
 
 https://mat.tl/
 
-* Please see [the wiki](wiki) for more information.
+* Please see [the wiki](https://github.com/libre-fm/developer/wiki) for more information.
