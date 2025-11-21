@@ -7,4 +7,7 @@ Anyone who cares to even try and make a client that supports Libre.fm has my tha
 So thank you. 
 
 Matt Lee, aka @mattl
+
 https://mat.tl/
+
+* Please see [the wiki](/libre-fm/developer/wiki) for more information.
